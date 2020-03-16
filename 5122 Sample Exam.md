@@ -39,7 +39,7 @@ Open data is data that can be publicly and freely used, reused, shared by anyone
 
 
 
-##1b. 4 Opportunities Open Data use
+## 1b. 4 Opportunities Open Data use
 
 **Government:** British government 'where does my money go' data shows how their citizen's tax money is being spent by the government, which increase government transparency.
 
@@ -82,11 +82,11 @@ Company with product and services using relevent information to help them more f
 
 
 
-##2b. NORA
+## 2b. NORA
 
 NORA is Nonobvious Relationship Awareness Technology. It can take information about people from disparate sources, such as employment application, telephone records and wanted lists, and find relationships that might help identify criminals or terrorists.
 
-###Benefit
+### Benefit
 
 1. This tech is considered as a valuable tool for homeland security and anti-terrorist activities. It scan and extract information as the data are being generated so that it could instantly discover a man at an airline ticket counter who shares a phone number with a known terrorist before he boards the airplane.
 
@@ -150,7 +150,7 @@ It is more effective, doesn't require explanation from the speaker, reducing the
 
 Promote our product to ensure all the details of the product are being provided
 
-###Oral Presentation
+### Oral Presentation
 
 During the expo we have guests and judges. I quickly explain to them about our project
 
@@ -173,7 +173,7 @@ Distribute the slides for each person and easy flow of information
 
 # Q4. Structured Communication (Meetings)
 
-##4a. What are Meetings
+## 4a. What are Meetings
 
 Assembly of People meet up for a particular purpose or for discussion regarding any topic. Can either be formal or informal.
 
@@ -199,7 +199,7 @@ Agenda acts as a plan for a meeting, provide a timetable and the content. Sent a
 
 Minutes are a record of what actually went on at the meeting, ie. what was said by whom, and any decisions were made. Important because it is formal record. Maybe month or years later someone wants to know the details.
 
-##4d. After Meeting
+## 4d. After Meeting
 
 1. Complete and confirm the minutes
 2. Follow up on actions and Feedback
@@ -275,11 +275,11 @@ I feel like... I believe I am not given much opportunity ... because ...
 
 
 
-#Q6. Interpersonal Communication
+# Q6. Interpersonal Communication
 
-##6a. Multiculture Advantages 
+## 6a. Multiculture Advantages 
 
-###Team:
+### Team:
 
 Higher efficiency	More ideas	Divide up roles	Different solutions
 
@@ -305,7 +305,7 @@ Explain how people experience and engage cultural difference.
 
 # Q7. interpersonal Communication
 
-##7a. Encourage Ideas
+## 7a. Encourage Ideas
 
 **Interpersonal Communication Skills:** 	Assertiveness;	Listening;	Questioning;	Feedback
 
@@ -327,7 +327,7 @@ Explain how people experience and engage cultural difference.
 
 
 
-##7c. Hearing and Listening
+## 7c. Hearing and Listening
 
 Get the sound;	Get the meaning
 
@@ -351,9 +351,9 @@ Get the sound;	Get the meaning
 
 
 
-#Q8. Professional Issues / Code of Ethics
+# Q8. Professional Issues / Code of Ethics
 
-##8a. 6 Attri Describe a Professional
+## 8a. 6 Attri Describe a Professional
 
 | Profession (Ford and Gibbs)    | Computer Related Career (Quinn)                  |
 | ------------------------------ | ------------------------------------------------ |
@@ -486,7 +486,7 @@ Allow following categories to use somone else's work for beneficial societal use
 
 
 
-##10c. Internet Photos Free to use?
+## 10c. Internet Photos Free to use?
 
 Depends on license that attached with the photo.
 
@@ -496,7 +496,7 @@ Depends on license that attached with the photo.
 
 
 
-#11. Ethical Framework
+# 11. Ethical Framework
 
 ## 11a. 5 tasks solving ethical problems
 
