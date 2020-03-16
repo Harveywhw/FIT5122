@@ -229,13 +229,13 @@ facilitating the team 	obtain resources 	protect it from problems
 
 ## 5c. Bruce Tuckman's Team Development (FSNPR)
 
-**Forming ** form a group	Role is unclear
+**Forming** form a group	Role is unclear
 
-**Storming ** Conflicts	Leadership Rule	Goles is not defined
+**Storming** Conflicts	Leadership Rule	Goles is not defined
 
-**Norming  ** Analyse strength and weaknesses	Respect leader
+**Norming** Analyse strength and weaknesses	Respect leader
 
-**Performing ** Ease for members to work well together	Better performance
+**Performing** Ease for members to work well together	Better performance
 
 **Reforming**   Exist for only a fixed period	Close relationship difficult if future is uncertain
 
